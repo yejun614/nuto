@@ -1,0 +1,9 @@
+
+#report { margin-left:20px; }
+
+li { list-style:none; margin-left:20px; }
+p { margin-left:10px; }
+
+.model { border-left:3px solid blue; }
+.state { border-left:3px solid skyblue; }
+.node { border-left:3px solid black; }
